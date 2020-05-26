@@ -1,0 +1,2 @@
+include ':brdroid'
+rootProject.name='My Library'
